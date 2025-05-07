@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HERVeg.05-AgriTech-web/static/css/main.c80399b3.css",
-    "main.js": "/HERVeg.05-AgriTech-web/static/js/main.4d4ba7b9.js",
+    "main.css": "/HERVeg.05-AgriTech-web/static/css/main.799b14c1.css",
+    "main.js": "/HERVeg.05-AgriTech-web/static/js/main.c55de8f8.js",
     "static/media/drc-women.jpeg": "/HERVeg.05-AgriTech-web/static/media/drc-women.1b8cdef0b1d01ecbac75.jpeg",
     "static/media/about us.jpg": "/HERVeg.05-AgriTech-web/static/media/about us.64205d976b51b526f7bb.jpg",
     "static/media/Youngman.jpeg": "/HERVeg.05-AgriTech-web/static/media/Youngman.0ce6dc7e1e2f2081606f.jpeg",
@@ -22,11 +22,11 @@
     "static/media/rocket-lunch.svg": "/HERVeg.05-AgriTech-web/static/media/rocket-lunch.9adc15858322d4c1f450d24cfa6c4123.svg",
     "static/media/linkedin-in-brands.svg": "/HERVeg.05-AgriTech-web/static/media/linkedin-in-brands.b2d2e85e8364a3d9899d4ea1eb69a01b.svg",
     "index.html": "/HERVeg.05-AgriTech-web/index.html",
-    "main.c80399b3.css.map": "/HERVeg.05-AgriTech-web/static/css/main.c80399b3.css.map",
-    "main.4d4ba7b9.js.map": "/HERVeg.05-AgriTech-web/static/js/main.4d4ba7b9.js.map"
+    "main.799b14c1.css.map": "/HERVeg.05-AgriTech-web/static/css/main.799b14c1.css.map",
+    "main.c55de8f8.js.map": "/HERVeg.05-AgriTech-web/static/js/main.c55de8f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c80399b3.css",
-    "static/js/main.4d4ba7b9.js"
+    "static/css/main.799b14c1.css",
+    "static/js/main.c55de8f8.js"
   ]
 }
